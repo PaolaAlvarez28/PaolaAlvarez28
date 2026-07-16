@@ -1,64 +1,71 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
 <h1 align="center">¡Hola! 👋 Soy Diana Paola Cerdas Álvarez</h1>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PaolaAlvarez28.PaolaAlvarez28" alt="Visitors"/>
+</p>
+
+## 👩‍💻 Sobre mí
 
 Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica, interesada en el desarrollo Frontend y en la creación de aplicaciones web modernas.
 
-- Actualmente desarrollo proyectos académicos y personales utilizando React, TypeScript, Tailwind CSS y SQL Server.
+- Actualmente desarrollo proyectos académicos y personales utilizando **React, TypeScript, Tailwind CSS y SQL Server**.
 - Me especializo en el desarrollo de interfaces intuitivas, responsivas y orientadas a brindar una buena experiencia de usuario.
 - Cuento con experiencia en el consumo de APIs REST, control de versiones con Git y desarrollo de aplicaciones utilizando tecnologías modernas.
 - Siempre busco aprender nuevas herramientas y mejorar mis habilidades técnicas para desarrollar soluciones eficientes y de calidad.
 
-## Lenguajes, Frameworks y Herramientas
+---
 
-### Lenguajes de Programación
+# 🛠 Lenguajes, Frameworks y Herramientas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
+### 💻 Lenguajes de Programación
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cs" />
 </p>
 
-### Frontend Libraries & Tools
+### ⚛️ Frontend Libraries & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tanstack.svg" height="45" alt="TanStack"/>
-  <img width="12"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" alt="Tailwind CSS"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+<img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reacttable&logoColor=white" height="48"/>
 </p>
 
-### Backend & APIs
+### 🔧 Backend & APIs
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg" height="45" alt="NestJS"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt=".NET"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="48"/>
 </p>
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" height="45" alt="SQL Server"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/>
 </p>
 
-### Diseño, DevOps, Flujo de Trabajo y Metodologías
+### 🎨 Diseño y Herramientas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
+
+---
+
+# 🔥 Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaolaAlvarez28&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PaolaAlvarez28&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaAlvarez28&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
