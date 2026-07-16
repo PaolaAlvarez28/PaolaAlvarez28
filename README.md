@@ -62,11 +62,10 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Ri
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12"/>
-  <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40"/>
-  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+   <img width="12"/>
+  <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40"/>
 </div>
- 
 
 <h4 align="left">Backend & APIs</h4>
 
