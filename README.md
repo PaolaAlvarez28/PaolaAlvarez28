@@ -14,9 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PaolaAlvarez28.PaolaAlvarez28&" />
-</div>
 
 ###
 
