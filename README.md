@@ -5,13 +5,10 @@
 ###
 
 <div align="center">
-  <!-- Cuando tengas LinkedIn, descomenta esta sección y reemplaza el enlace -->
-
-  <!--
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  <a href="https://www.linkedin.com/in/paola-álvarez-6b7891400" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
   </a>
-  -->
+</div>
 
 </div>
 
@@ -23,7 +20,7 @@
 
 ###
 
-<h1 align="center">¡Hola! 👋 Soy Diana Paola Cerdas Álvarez</h1>
+<h1 align="center">¡Hola! 👋 Soy Diana</h1>
 
 ###
 
