@@ -1,5 +1,5 @@
 <div align="center">
-   <img height="160" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+   <img height="160" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
 </div>
 
 ###
@@ -105,10 +105,3 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Ri
 
 ###
 
-<h3 align="left">🔥 Mis estadísticas</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PaolaAlvarez28&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
