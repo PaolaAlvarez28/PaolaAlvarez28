@@ -72,9 +72,11 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Ri
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img width="12"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40"/>
+    <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40"/>
+
+ 
 </div>
 
 <h4 align="left">Bases de Datos</h4>
