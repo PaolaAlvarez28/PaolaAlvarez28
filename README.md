@@ -82,10 +82,11 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Ri
 <h4 align="left">Bases de Datos</h4>
 
 <div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="12"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
    </div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
+  
 
 
 <h4 align="left">Diseño, DevOps, Flujo de Trabajo y Metodologías</h4>
